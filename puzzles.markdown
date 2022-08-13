@@ -1,5 +1,5 @@
 ---
-layout: puz_index
+layout: default
 title: Puzzles
 permalink: /puzzles/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: proj_index
+layout: default
 title: Projects
 permalink: /projects/
 ---
