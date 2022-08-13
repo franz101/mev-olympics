@@ -27,7 +27,7 @@ drwxr-xr-x 2 sherlach sherlach 4096 Aug 14 03:21 [Puzzles/](/puzzles)
 total 28\
 drwxr-xr-x 8 sherlach sherlach 4096 Aug 14 01:54 [./](/)\
 drwxr-xr-x 5 sherlach sherlach 4096 May 25 02:49 [../](/secret)\
--rwxr-xr-x 1 richard  richard  3118 Jul 27 02:49 [.passwords.txt](/.roll)\
+-rwxr-xr-x 1 richard  richard  3118 Jul 27 02:49 [.passwords.txt](/roll)\
 drwxr-xr-x 2 sherlach sherlach 4096 Aug 14 03:25 [Posts/](/posts)\
 drwxr-xr-x 2 sherlach sherlach 4096 Aug 14 01:11 [Projects/](/projects)\
 drwxr-xr-x 2 sherlach sherlach 4096 Aug 14 03:21 [Puzzles/](/puzzles)
