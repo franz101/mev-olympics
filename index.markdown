@@ -11,9 +11,9 @@ by
 ## > whoami
 I am a Computer Science student living in Sydney, Australia. My interests include music, fencing, security and puzzles - which I tend to be better at solving than writing.
 
-## > ls | grep projects
-
-## > ls | grep posts
+## > ls
+[Posts](/posts)
+[Projects](/projects)
 
 ## > cat quote_of_the_day
 "Education never ends, Watson. It is a series of lessons, with the greatest for the last."

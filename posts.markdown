@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: posts_index
 title: Posts
 permalink: /posts/
 ---
