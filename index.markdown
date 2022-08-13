@@ -1,9 +1,12 @@
 ---
 # ![quote](/assets/cat_of_the_day.jpg)
 
-layout: home
+layout: default
 ---
 # S H E R L A C H
+by
+# S H E R L A C H
+
 
 ## > whoami
 I am a Computer Science student living in Sydney, Australia. My interests include music, fencing, security and puzzles - which I tend to be better at solving than writing.
