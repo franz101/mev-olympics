@@ -32,4 +32,4 @@ jobs:
           bundler_ver: '>=0'         # Default is latest bundler version
           cname: ''                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
-          pre_build_commands: 'apt-get -y install libvips-dev libpng-dev libwebp-dev libjpeg-dev'     # Installing additional dependencies (Arch Linux)
+          pre_build_commands: 'pacman -S libvips libpng libwebp libjpeg'     # Installing additional dependencies (Arch Linux)
