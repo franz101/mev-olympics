@@ -33,6 +33,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-mentions
+  - jekyll-responsive-image
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +54,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+#   responsive_image:
+template: _includes/responsive-image.html
+sizes:
+  - width: 320
+  - width: 480
+  - width: 800
