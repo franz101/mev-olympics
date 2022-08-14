@@ -33,6 +33,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-mentions
+  - jekyll-paginate-v2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +55,15 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 #
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Produces a cleaner folder structure when using categories
+# permalink: /:year/:month/:title.html
