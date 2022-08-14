@@ -33,7 +33,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-mentions
-  - jekyll-responsive-image
 
 # Exclude from processing.
 # The following items will not be processed, by default.
