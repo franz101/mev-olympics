@@ -10,13 +10,13 @@ permalink: /puzzles/
 
 ### puzzle02.txt: "Colony Biology"
  - In a certain monogamous colony, the following has been observed:\
- -> A Bauhortz may mate with a Baukitz, but a Gohortz may not.\
- -> A Golortz may mate with a Golortz, but a Gohortz may not.\
- -> A Baukitz may not mate with a Faulortz, but a Bauhortz may.\
- -> A Baukitz may mate with a Baulortz, and so may a Bauhortz.\
- -> A Gohortz may mate with a Gohortz, but a Faulortz may not.\
- -> A Faukitz may not mate with a Baukitz, and neither may a Golortz.\
- -> A Fauhortz may not mate with either a Fauhortz or a Faulortz.\
- -> And finally, no Gokitz has been observed to mate.\
+     * A Bauhortz may mate with a Baukitz, but a Gohortz may not.\
+     * A Golortz may mate with a Golortz, but a Gohortz may not.\
+     * A Baukitz may not mate with a Faulortz, but a Bauhortz may.\
+     * A Baukitz may mate with a Baulortz, and so may a Bauhortz.\
+     * A Gohortz may mate with a Gohortz, but a Faulortz may not.\
+     * A Faukitz may not mate with a Baukitz, and neither may a Golortz.\
+     * A Fauhortz may not mate with either a Fauhortz or a Faulortz.\
+     * And finally, no Gokitz has been observed to mate.\
 
 Can you deduce the mating laws of the colony?
