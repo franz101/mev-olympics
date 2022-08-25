@@ -1,2 +1,0 @@
-- put liquid syntax in .markdown files instead of creating extra bloated `_layout` files
-- add poems (poems, posts, projects, puzzles)

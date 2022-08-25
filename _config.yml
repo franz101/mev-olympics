@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: sherlach.homes
-email: contact@sherlach.homes
+title: MEV Olympics
+email: hi@mev.tools
 description: >- # this means to ignore newlines until "baseurl:"
   The game is afoot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
   # twitter_username: jekyllrb
-github_username:  sherlach
+github_username:  franz101
 
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0

@@ -7,7 +7,7 @@ pagination:
   enabled: true
 
 ---
-## > ls posts
+## Education Posts
 {% if paginator.total_pages > 1 %}
 <ul>
   {% if paginator.previous_page %}
