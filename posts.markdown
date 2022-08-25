@@ -8,6 +8,17 @@ pagination:
 
 ---
 ## Education Posts
+
+<ul>
+{% for post in site.posts %}
+<li>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{{ post.excerpt }}
+</li>
+{% endfor %}
+</ul>
+
+
 {% if paginator.total_pages > 1 %}
 <ul>
   {% if paginator.previous_page %}
