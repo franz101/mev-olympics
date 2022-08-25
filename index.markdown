@@ -7,4 +7,4 @@ layout: default
 Who is the top of the block in 2022?
 
 ## Disciplines
-[Posts/](/posts) [Projects/](/projects) 
+[Posts/](./posts) [Projects/](./projects) 
