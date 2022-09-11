@@ -1,13 +1,19 @@
 ---
 layout: post
-title:  "Master of the 0x gas address"
+title:  "Master of the leading zeroes address"
 date:   2022-08-25 00:00:00 +1000
 categories: mev discipline
 ---
+
+![image-title-here](/assets/images/DALL·E_2022-09-11_08.40.53.png){: width="250" }
+
+
 The champion of this disclipline will be awarded with the NFT for having the most leading zeores in the address.
 
 The smart contract for the allowlist features the following function:
-```    function getLeadingZeroes(address addr) public view returns (uint) {
+
+{% highlight javascript %}
+function getLeadingZeroes(address addr) public view returns (uint) {
         bytes20 bytesAdr = bytes20(addr);
         uint counter = 0;
         for (uint i = 0; i < 20; i++) {
@@ -18,11 +24,14 @@ The smart contract for the allowlist features the following function:
             }
         }
         return counter;
-    }```
+    }
+{% endhighlight %}
+
+Claim your NFT under this address on ropsten:
+```0xc310800fbad7fe91acf195dac428430e4c847e6a```
 
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+More resources:
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
