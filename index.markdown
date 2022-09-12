@@ -10,8 +10,7 @@ Maximal extractable value (MEV) refers to the maximum value that can be extracte
 
 It is competitive by nature and therefore searchers try to optimize their strategies. To get familiar with some disciplines MEV Olympics provides a playground of various disciplines.
 
-The source code can be found [here]: https://github.com/franz101/mev-olympics
-
+The source code can be found [here](https://github.com/franz101/mev-olympics)
 
 
 ## Disciplines
@@ -28,7 +27,7 @@ The source code can be found [here]: https://github.com/franz101/mev-olympics
 
 <ul>
 <li>
-<h2><a href="{{ post.url }}">More</a></h2>
+<h2><a href="/posts">More</a></h2>
  </li>
  </ul>
 
