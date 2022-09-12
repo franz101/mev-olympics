@@ -7,7 +7,7 @@ pagination:
   enabled: true
 
 ---
-## Education Posts
+<h1>Disciplines</h1>
 
 <ul>
 {% for post in site.posts %}
@@ -34,7 +34,3 @@ pagination:
 </ul>
 {% endif %}
 
-## sort by tag
-
-
-## search for a specific blogpost

@@ -28,11 +28,11 @@ function getLeadingZeroes(address addr) public view returns (uint) {
 {% endhighlight %}
 
 Claim your NFT under this address on ropsten:
-```0xE9764B5e3A9471fa68504c0Af96bbBF08236f0B6```
+```0xc310800fbad7fe91acf195dac428430e4c847e6a```
 
 
 More resources:
 
-[Github](https://github.com/franz101/mev-olympics-nft/blob/0d61d6bd6763585d53c57ca2d69816f6315362c9/contracts/MevOlympics.sol#L48)
-[Etherscan](https://ropsten.etherscan.io/address/0xE9764B5e3A9471fa68504c0Af96bbBF08236f0B6)
-[Profanity](https://github.com/johguse/profanity)
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
