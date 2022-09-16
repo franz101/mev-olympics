@@ -14,7 +14,7 @@ Claim your NFT under this address on Goerli:
 ```0x80bcbfca0070fa71d17917e2a0fafff697087803```
 
 token address:
-```0x2030e04c2e8c4748fd96aa56d67ad83c86641bf9```
+```0xb03d5a555a3195e5b7c85eaf56a998f5ec58b840```
 
 More resources:
 
