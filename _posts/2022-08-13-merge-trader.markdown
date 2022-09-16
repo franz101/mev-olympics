@@ -10,11 +10,13 @@ categories: jekyll update
 Will you be the top of the block? For this challenge you need to mint the NFT on the first block after the merge. 
 
 
-Claim your NFT under this address on Ropsten:
-```0xE9764B5e3A9471fa68504c0Af96bbBF08236f0B6```
+Claim your NFT under this address on Goerli:
+```0x80bcbfca0070fa71d17917e2a0fafff697087803```
 
+token address:
+```0x2030e04c2e8c4748fd96aa56d67ad83c86641bf9```
 
 More resources:
 
 [Github](https://github.com/franz101/mev-olympics-nft/blob/0d61d6bd6763585d53c57ca2d69816f6315362c9/contracts/MevOlympics.sol#L98)
-[Etherscan](https://ropsten.etherscan.io/address/0xE9764B5e3A9471fa68504c0Af96bbBF08236f0B6)
+[Etherscan](https://goerli.etherscan.io/address/0x80bcbfca0070fa71d17917e2a0fafff697087803#writeContract)
