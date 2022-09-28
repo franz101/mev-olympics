@@ -57,6 +57,6 @@ Depending on the blockchain it can be a way to detect MEV extraction.
 
 
 
-
-
-
+<br/>
+<br/>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfm4uuVVQP3tw4-NMQy_2OSNwiQhVsFZTVjZIfh4UhdlX_Crg/viewform?embedded=true" width="640" height="394" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
