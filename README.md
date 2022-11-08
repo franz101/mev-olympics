@@ -1,5 +1,3 @@
-Website for hackathon
-
 ## MEV Olympics
 
 
