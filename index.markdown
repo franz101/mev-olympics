@@ -37,12 +37,6 @@ The source code can be found [here](https://github.com/franz101/mev-olympics)
 
 Each discipline has 10 NFTs the participants can mint if they solve a specific challenge.
 
-
-## High score
-1. Danil    1231
-2. Franz    122
-
-
 ## Education
 
 How to use flashbots to mint a NFT without loosing gas:
